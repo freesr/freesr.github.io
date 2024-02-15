@@ -1,4 +1,4 @@
-baseURL: "https://keerthi-sreenivas.github.io"
+baseURL: "https://freesr.github.io"
 languageCode: "en-us"
 title: "Keerthi"
 theme: master
@@ -107,9 +107,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/Keerthi-Sreenivas
+          url: https://github.com/freesr
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
+          url: https://www.linkedin.com/in/freesr-90b78a185/
         - icon: fab fa-instagram
           url: https://www.instagram.com/accounts/login/?next=/keerthi__sreenivas/
       #customIcons:
@@ -290,7 +290,7 @@ params:
           #- icon: fa fa-envelope
           #  url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/Deep-Learning/blob/main/Gray%20Scale%20Image%20Colorization%20using%20Auto%20Encoders%20(Fruits%20Data%20Set).ipynb
+            url: https://github.com/freesr/Deep-Learning/blob/main/Gray%20Scale%20Image%20Colorization%20using%20Auto%20Encoders%20(Fruits%20Data%20Set).ipynb
           # - icon: fab fa-twitter
           #  url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -299,27 +299,27 @@ params:
         image: /images/projects/doge4.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis/blob/main/Facts_derived_from_the_study.pdf
+          link: https://github.com/freesr/Elon_Musk-Doge-Tweet_Analysis/blob/main/Facts_derived_from_the_study.pdf
         # badges:
         #   - "Django"
         #   - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis
+            url: https://github.com/freesr/Elon_Musk-Doge-Tweet_Analysis
 
       - title: Marketing Insights - Statistics
         content: Digging through data and finding significant insights to advertise better products to customers of different backgrounds.
         image: /images/projects/advert1.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+          link: https://github.com/freesr/statistics/blob/main/Project.pdf
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+            url: https://github.com/freesr/statistics/blob/main/Project.pdf
 
   #Contact
   contact:
@@ -331,8 +331,8 @@ params:
   footer:
     recentPosts: false
     socialNetworks:
-      github: https://github.com/Keerthi-Sreenivas
-      linkedin: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
+      github: https://github.com/freesr
+      linkedin: https://www.linkedin.com/in/freesr-90b78a185/
     # twitter: https://twitter.com
       instagram: https://www.instagram.com/keerthi__sreenivas/
     # facebook: https://facebook.com
